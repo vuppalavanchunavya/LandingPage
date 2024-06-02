@@ -1,0 +1,253 @@
+.appLanding,
+.pageFree {
+  margin: 0;
+}
+.appLandingPageContainer {
+  top: 276.3px;
+  left: 116.2px;
+  line-height: 117.52%;
+  font-weight: 600;
+}
+.appLandingPageContainer,
+.sourceFiles,
+.superAwesome {
+  position: absolute;
+  letter-spacing: -0.04em;
+}
+.superAwesome {
+  top: 479px;
+  left: 116.2px;
+  font-size: 51.3px;
+  line-height: 117.52%;
+  font-weight: 600;
+}
+.sourceFiles {
+  top: 548px;
+  left: 116px;
+  font-size: 40.6px;
+  line-height: 48px;
+  color: rgba(0, 0, 0, 0.5);
+}
+.frameChild {
+  height: 48px;
+  width: 234px;
+  position: relative;
+  border-radius: 47.92px;
+  background-color: var(--color-black);
+  display: none;
+}
+.freeTemplate {
+  position: relative;
+  font-size: 28.8px;
+  letter-spacing: -0.04em;
+  line-height: 34px;
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  text-align: left;
+  z-index: 1;
+}
+.rectangleParent {
+  cursor: pointer;
+  border: 0;
+  padding: 8px 25px 6px;
+  background-color: var(--color-black);
+  position: absolute;
+  top: 189px;
+  left: 190px;
+  border-radius: 47.92px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  white-space: nowrap;
+}
+.rectangleParent:hover {
+  background-color: #333;
+}
+.frameItem {
+  height: 92px;
+  width: 146px;
+  position: relative;
+  box-shadow: 0 63.9px 95.85px rgba(58, 58, 58, 0.2);
+  border-radius: 95.85px;
+  background-color: var(--color-white);
+  display: none;
+}
+.figmaIcon {
+  height: 55.1px;
+  width: 55.1px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.rectangleGroup {
+  position: absolute;
+  top: 635px;
+  left: 102px;
+  box-shadow: 0 63.9px 95.85px rgba(58, 58, 58, 0.2);
+  border-radius: 95.85px;
+  background-color: var(--color-white);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 18.4px 44px 18.5px 46px;
+}
+.wrapperGroup1Child {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 45px;
+  transform: scale(3.066);
+}
+.wrapperGroup1 {
+  position: absolute;
+  top: 177px;
+  left: 110px;
+  width: 64.7px;
+  height: 64.7px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.desktop32 {
+  position: absolute;
+  top: 21px;
+  left: 812.1px;
+  width: 253px;
+  height: 1034px;
+  object-fit: cover;
+}
+.separator,
+.separator1 {
+  filter: drop-shadow(16px 16px 95.85px rgba(168, 168, 168, 0.1));
+  width: 291.8px;
+  height: 631.9px;
+  transform: rotate(-20.2deg);
+  transform-origin: 0 0;
+}
+.separator {
+  position: absolute;
+  top: 277.36px;
+  left: 356.9px;
+  z-index: 1;
+}
+.separator1 {
+  top: 242.66px;
+  left: 0;
+  z-index: 2;
+}
+.desktop31,
+.div,
+.separator1 {
+  position: absolute;
+}
+.div {
+  top: -340.51px;
+  left: 129.5px;
+  filter: drop-shadow(16px 16px 95.85px rgba(168, 168, 168, 0.1));
+  width: 291.7px;
+  height: 631.6px;
+  transform: rotate(-20.1deg);
+  transform-origin: 0 0;
+  z-index: 3;
+}
+.desktop31 {
+  width: 100%;
+  height: 100%;
+  z-index: 4;
+  object-fit: contain;
+  left: 31px;
+  top: 43px;
+  transform: scale(1.246);
+}
+.wrapperDesktop31 {
+  position: absolute;
+  top: 73px;
+  left: 112.1px;
+  width: 814px;
+  height: 3328px;
+  z-index: 4;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.desktop32Parent {
+  position: absolute;
+  top: 0;
+  left: 507.9px;
+  width: 1065.1px;
+  height: 960px;
+}
+.preview {
+  margin-left: -10px;
+  height: 958px;
+  width: 1638px;
+  position: relative;
+  background-color: #f2f2f2;
+  overflow: hidden;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  max-width: 103%;
+  text-align: left;
+  font-size: 71.8px;
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.iphone13ProFrontIcon {
+  height: 793px;
+  width: 533.7px;
+  position: absolute;
+  margin: 0 !important;
+  bottom: -576px;
+  left: 294px;
+  object-fit: contain;
+  z-index: 5;
+}
+.freebie {
+  width: 100%;
+  height: 960px;
+  position: relative;
+  border-radius: 10px;
+  background-color: var(--color-white);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 2px;
+  box-sizing: border-box;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 750px) {
+  .appLandingPageContainer {
+    font-size: 57px;
+    line-height: 68px;
+  }
+  .superAwesome {
+    font-size: 41px;
+    line-height: 48px;
+  }
+  .sourceFiles {
+    font-size: 32px;
+    line-height: 38px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .appLandingPageContainer {
+    font-size: 43px;
+    line-height: 51px;
+  }
+  .superAwesome {
+    font-size: 31px;
+    line-height: 36px;
+  }
+  .sourceFiles {
+    font-size: 24px;
+    line-height: 29px;
+  }
+}
