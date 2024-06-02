@@ -1,12 +1,8 @@
 {
     "rewrites": [
       {
-        "source": "/api/(.*)",
-        "destination": "/api"
-      },
-      {
-        "source": "/static/(.*)",
-        "destination": "/static"
+        "source": "/(.*)",
+        "destination": "/index.html"
       }
     ]
   }
